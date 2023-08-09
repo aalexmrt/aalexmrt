@@ -1,16 +1,16 @@
 ### Hi there 👋 
 I'm **Alex Martinez**, a passionate fullstack developer. I'm interested on building web apps and learn new trending tech stack.
 
-#### Skills
+## Skills
 
-##### Frontend
+### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind)](https://skillicons.dev)
 
-##### Backend
+### Backend
 
 [![My Skills](https://skillicons.dev/icons?i=node,express,python)](https://skillicons.dev)
 
-##### Deployment
+### Deployment
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,jenkins)](https://skillicons.dev)
 
