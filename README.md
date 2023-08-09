@@ -12,7 +12,7 @@ I'm **Alex Martinez**, a passionate fullstack developer. I'm interested on build
 
 ### Deployment
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,jenkins, githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,jenkins,githubactions)](https://skillicons.dev)
 
 <!--
 **aalexmrt/aalexmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
