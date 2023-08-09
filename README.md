@@ -1,7 +1,18 @@
 ### Hi there 👋 
 I'm **Alex Martinez**, a passionate fullstack developer. I'm interested on building web apps and learn new trending tech stack.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,node,express,python,git)](https://skillicons.dev)
+#### Skills
+
+##### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind)](https://skillicons.dev)
+
+##### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=node,express,python)](https://skillicons.dev)
+
+##### Deployment
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,jenkins)](https://skillicons.dev)
 
 <!--
 **aalexmrt/aalexmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
