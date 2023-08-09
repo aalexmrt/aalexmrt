@@ -8,11 +8,11 @@ I'm **Alex Martinez**, a passionate fullstack developer. I'm interested on build
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,sqlite,mongodb)](https://skillicons.dev)
 
 ### Deployment
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,jenkins, githubactions)](https://skillicons.dev)
 
 <!--
 **aalexmrt/aalexmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
