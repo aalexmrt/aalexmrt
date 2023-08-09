@@ -1,4 +1,7 @@
-### Hi there 👋 My name is Alex Martinez
+### Hi there 👋 
+My name is Alex Martinez
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **aalexmrt/aalexmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
