@@ -8,7 +8,7 @@ I'm **Alex Martinez**, a passionate fullstack developer. I'm interested on build
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=node,express,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python)](https://skillicons.dev)
 
 ### Deployment
 
